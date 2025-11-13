@@ -1,4 +1,4 @@
-![EX2 PackageDiagram](https://github.com/user-attachments/assets/a015ee57-ca2e-44c0-8ea8-ec2381da6e40)## NAME: CHARU NETHRA R
+## NAME: CHARU NETHRA R
 ## REG NO: 212223230035
 
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
